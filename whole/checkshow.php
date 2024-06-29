@@ -19,7 +19,6 @@
 ::placeholder{
     color:wheat;
     font-size:0.9rem;
-
   }
   #search{
     width:350px;
@@ -31,8 +30,7 @@
     padding: 10px 10px 15px 10px;
     color: white;
     font-size:0.93rem;
-    text-decoration: none;
-    
+    text-decoration: none;  
 }
 
 .one a{
