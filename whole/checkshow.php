@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>front</title>
-    <script  src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="./project/three/style.css">
 <style>
@@ -14,19 +14,19 @@
     padding-right: 6%;
     margin: 0;
     box-shadow: 0;
-    background-color: black;
+    background-color:black;
 }
 ::placeholder{
-    color: wheat;
+    color:wheat;
     font-size: 0.9rem;
 
   }
   #search{
     width: 350px;
-    background: transparent;
+    background:transparent;
     border-radius: 20px;
-    border: 1px solid white;
-    height: 30px;
+    border:1px solid white;
+    height:30px;
     margin-top:17px;
     padding: 10px 10px 15px 10px;
     color: white;
@@ -42,10 +42,10 @@
 }
 footer{
     display: flex;
-    justify-content: space-between;
+    justify-content:space-between;
 }
 .footer{
-    width: 100%;
+    width:100%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -56,13 +56,13 @@ footer{
 }
 .footer a{
     color: darkgray;
-    font-size: 15px;
+    font-size:15px;
 }
 #first-row a{
-    text-decoration: none;
+    text-decoration:none;
 }
 #privacy{
-    text-decoration: none;
+    text-decoration:none;
 
 }
 #second-row{
@@ -85,18 +85,18 @@ hr{
     font-size: 20px;
 }
 .whole a{
-    text-decoration: none;
-    color: lightgray;
-    font-size: 0.7rem;
+    text-decoration:none;
+    color:lightgray;
+    font-size:0.7rem;
 
 }
 .one{
-    display: flex;
-    flex-direction: column;
+    display:flex;
+    flex-direction:column;
 }
 .one img{
-    width: 200px;
-    height: 65px;
+    width:200px;
+    height:65px;
     border-radius: 20px;
 }
 .whole p{
