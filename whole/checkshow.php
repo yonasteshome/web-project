@@ -10,15 +10,15 @@
 <style>
     body{
     padding: 0;
-    padding-left: 6%;
-    padding-right: 6%;
-    margin: 0;
-    box-shadow: 0;
+    padding-left:6%;
+    padding-right:6%;
+    margin:0;
+    box-shadow:0;
     background-color:black;
 }
 ::placeholder{
     color:wheat;
-    font-size: 0.9rem;
+    font-size:0.9rem;
 
   }
   #search{
