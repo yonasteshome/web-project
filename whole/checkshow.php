@@ -34,7 +34,7 @@
     text-decoration: none;
     
 }
-/* footer */
+
 .one a{
     color: darkgray;
     font-size: 15px;
