@@ -46,7 +46,6 @@ if (isset($_POST['loginBtn'])) {
 
 
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
