@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="./project/three/style.css">
 <style>
     body{
-    padding: 0;
+    padding:0;
     padding-left:6%;
     padding-right:6%;
     margin:0;
@@ -22,7 +22,7 @@
 
   }
   #search{
-    width: 350px;
+    width:350px;
     background:transparent;
     border-radius: 20px;
     border:1px solid white;
@@ -30,18 +30,18 @@
     margin-top:17px;
     padding: 10px 10px 15px 10px;
     color: white;
-    font-size: 0.93rem;
+    font-size:0.93rem;
     text-decoration: none;
     
 }
 
 .one a{
-    color: darkgray;
+    color:darkgray;
     font-size: 15px;
     margin-bottom: 5px;
 }
 footer{
-    display: flex;
+    display:flex;
     justify-content:space-between;
 }
 .footer{
@@ -52,10 +52,10 @@ footer{
     margin-bottom: 60px;
     }
 .row{
-    display: inline;
+    display:inline;
 }
 .footer a{
-    color: darkgray;
+    color:darkgray;
     font-size:15px;
 }
 #first-row a{
@@ -63,7 +63,6 @@ footer{
 }
 #privacy{
     text-decoration:none;
-
 }
 #second-row{
     margin-bottom: 30px;
@@ -74,7 +73,6 @@ hr{
     margin-top: 140px;
     padding-left: 0;
     border: 1px solid;
-
 }
 .whole{
     display: flex;
