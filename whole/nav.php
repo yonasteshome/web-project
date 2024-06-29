@@ -61,8 +61,6 @@
             padding: 5px;
             border-radius: 20px;
         }
-        
-
     </style>
 </head>
 <body>
