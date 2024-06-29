@@ -91,7 +91,7 @@
   <div class="container">
     <h1>Create Event</h1>
     <form action="check.php" method="POST">
-      <div class="form-group">
+      <div class="form-group">  
         <label for="organization_name">Organization Name:</label>
         <input type="text" id="organization_name" name="organization_name" required>
       </div>
@@ -140,9 +140,9 @@
         <input id="create" name="CreateEvent" type="submit" value="CREATE EVENT">
       </div>
     </form>
-    <?php
+    <?php 
 if(isset($_POST['CreateEvent'])){
-  // Retrieve form data
+  // Retrieve form data from the form
   $organization_name = $_POST['organization_name'];
   $event_title = $_POST['event_title'];
   $event_date = $_POST['event_date'];
