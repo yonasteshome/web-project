@@ -1,0 +1,140 @@
+.single img{
+    width: 80%;
+}
+.first-row1{
+    width: 50%;
+}
+.whole-part{
+    display: flex;
+    flex-direction: row;
+    margin-top: 9%;
+}
+.single1 .para{
+    color: white;
+    margin: 0;
+    font-size: 2.89rem;
+}
+.single1 small{
+    color:darkgrey;
+    margin: 0;
+    font-size: 1.7rem;
+}
+.second-row2{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    color: white;
+    background-color:white;
+}
+.second-row2 .star{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 30px;
+}
+.fulfill p{
+    font-size: 2.6rem;
+}
+.fulfill{
+    margin-top: 40px;
+    color: white;
+}
+.size{
+    font-size: 1.4rem;
+}
+.two-part{
+    display: flex;
+    width: 45%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.button{
+    width: 210px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding-top: 2px;
+    padding-left: 8px;
+}
+.button input[type="text"]{
+    width: 75px;
+    background-color: black;
+    color: white;
+    margin-right: 3px;
+    border-left: 2px solid darkgray;
+    border-right: 2px solid darkgray;
+    text-align: center;
+    font-size: 1.5rem;
+}
+.plus{
+    border: none;
+    width: 40px;
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+.plus img{
+    width: 27px;
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.minus img{
+    width: 30px;
+    height: 25px;
+    margin: 10px;
+}
+.minus{
+    border: none;
+    width: 30%;
+    height: 30px;
+    font-weight: bolder;
+    background-color: black;
+    color: white;
+}
+.total-value{
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+ span{
+    color: darkgrey;
+}
+.checkout{
+    width: 90%;
+    font-size: 30px;
+    border-radius: 25px;
+    color: white;
+    text-transform: uppercase;
+    background-color: black;
+    border: 2px solid darkgray;
+}
+/* card part */
+
+.popular-event-image{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.parts{
+    width: 400px;
+    height: 230px;
+    border-radius: 15px;
+}
+.popular-event-image p{
+    margin: 0;
+    color: white;
+}
+.popular-event{
+    color: white;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+svg{
+    color:white;
+}

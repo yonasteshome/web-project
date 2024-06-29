@@ -1,0 +1,203 @@
+body{
+    padding: 0;
+    padding-left: 6%;
+    padding-right: 6%;
+    margin: 0;
+    box-shadow: 0;
+    background-color: black;
+}
+#search{
+    width: 350px;
+    background: transparent;
+    border-radius: 20px;
+    border: 1px solid white;
+    height: 30px;
+    margin-top:17px;
+    padding: 10px 10px 15px 10px;
+    color: white;
+    font-size: 0.93rem;
+    text-decoration: none;
+    
+}
+/* #logo{
+    margin-right: 200px;
+} */
+::placeholder{
+    color: wheat;
+    font-size: 0.9rem;
+
+  }
+  .photo h2{
+    margin: 0px;
+    padding-top: 360px;
+    padding-bottom: 360px;
+    color: white;
+    font-size: 30px;
+    background-image: linear-gradient(to right,
+    rgba(0,0,0,1)
+    rgba(0,0,0,1));
+}
+
+  .h1 {
+    position: absolute;
+    top: 35%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .h12{
+    position: absolute;
+    top: 45%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .sec p{
+    position:relative;
+    top: -35px;
+    left: 10px;
+    color: white;
+    font-size: 1.3rem;
+  }
+  /* .music:hover{
+    
+  } */
+  .photo {
+    position: relative;
+    background-image: url(image/Coldplay.jpg);
+    overflow: hidden;
+    height: 700px;
+  }
+.category{
+    margin-top: 60px;
+}
+.categoryh2{
+    color: white;
+    margin-bottom: 40px;
+}
+.part{
+    width: 300px;
+    height: 180px;
+    border-radius: 12px;
+}
+.category-image{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 27px;
+}
+.stage{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+}
+.row-star{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-right: 15px;
+}
+small{
+    color: darkgray;
+    font-size: 0.7rem;
+}
+.popular-event-image{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.parts{
+    width: 400px;
+    height: 230px;
+    border-radius: 15px;
+}
+.popular-event-image p{
+    margin: 0;
+    color: white;
+}
+.popular-event{
+    color: white;
+    margin-bottom: 40px;
+}
+svg{
+    color:white;
+}
+.top-selling-event{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: white;
+}
+hr{
+    color: aliceblue;
+    margin-top: 140px;
+    padding-left: 0;
+    border: 1px solid;
+
+}
+.whole{
+    display: flex;
+    flex-direction: row;
+    margin-right: 20px;
+    justify-content: space-between;
+    color: white;
+    font-size: 20px;
+}
+.whole a{
+    text-decoration: none;
+    color: lightgray;
+    font-size: 0.7rem;
+
+}
+.one{
+    display: flex;
+    flex-direction: column;
+}
+.one img{
+    width: 200px;
+    height: 65px;
+    border-radius: 20px;
+}
+.whole p{
+    margin-bottom: 10px;
+    font-size: 1.8rem;
+}
+.one a{
+    color: darkgray;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 60px;
+    }
+.row{
+    display: inline;
+}
+.footer a{
+    color: darkgray;
+    font-size: 15px;
+}
+#first-row a{
+    text-decoration: none;
+}
+#privacy{
+    text-decoration: none;
+
+}
+#second-row{
+    margin-bottom: 30px;
+}
