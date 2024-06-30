@@ -4,6 +4,8 @@
 
 Welcome to our Event Management System website! This platform is designed to simplify event planning and management, offering powerful tools for both organizers and attendees. Whether you're organizing a corporate seminar, a community gathering, or attending an event, our website aims to enhance your experience with intuitive features and robust functionalities.
 
+Our system provides:For Organizers: Seamlessly create, manage, and promote events, track registrations, and engage with attendees.For Attendees: Easily discover, register for, and stay updated on events, with personalized dashboards and notifications.
+
 ## Features
 
 ### Event Creation and Management:
@@ -35,6 +37,10 @@ Contributions are welcome! If you have any ideas for new features, improvements,
 
 
 ## Features
+
+For Organizers
+
+--Event Creation and Management: Easily create, edit, and manage events with our user-friendly interface.Ticketing System: Set up ticket types, pricing, and manage sales efficiently.Attendee Management: Track registrations, send updates, and manage attendee lists.Promotion Tools: Utilize built-in tools for promoting events via social media and email campaigns.Analytics and Reports: Gain insights into ticket sales, attendance, and feedback to make data-driven decisions.
 
 --Event Creation and Management:
 
